@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="buscar cep" src="" width="100%">
+  <img alt="buscar cep" src="https://github.com/jonatas1565/cep/blob/master/public/image.jpeg?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
